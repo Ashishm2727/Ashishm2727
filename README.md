@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Ashishm2727
+- 👀 I’m interested in coding, gaming, etc
+- 🌱 I’m currently learning web dev
